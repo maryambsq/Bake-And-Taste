@@ -1,0 +1,94 @@
+body {
+    font-family: "Sofia", sans-serif;
+    font-style: italic;
+}
+
+
+.choc-cake {
+    background-image: url("dark-bg.jpg");
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: baseline;
+}
+
+.tagline {
+    color: white;
+    margin: 9rem 2rem;
+    font-size: 2rem;
+    font-family:'Trebuchet MS', sans-serif;
+    font-style: italic;
+   
+}
+
+.solid-bg {
+    background-color: rgb(236, 208, 213);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: baseline;
+}
+
+
+.about-us {
+    justify-content: center;
+    display: flex;
+ 
+}
+
+.about-us-p1 {
+    justify-content: flex-end;
+    display: flex;
+    font-size: 3rem;
+    margin: 3rem 2rem 2rem 3rem;
+    font-family:'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+.about-us-p2 {
+    justify-content: flex-end;
+    display: flex;
+    font-size: 2rem;
+    margin: 5rem 2rem 2rem 22rem;
+    font-family: 'Trebuchet MS', sans-serif;;
+    font-style: italic;
+}
+
+.menu {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 1rem;
+    font-size: 3rem;
+
+}
+
+.menu-items {
+    /* justify-content: center; */
+    display: flex;
+    align-items: center;
+    margin: 2rem;
+}
+
+.card {
+    margin: 1rem;
+}
+
+.card-title {
+    font-size: 1.75rem;
+}
+
+.card-text {
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+.btn-primary {
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+.contact-us {
+    font-size: 3rem;
+    font-family:'Trebuchet MS', sans-serif;
+    margin: 5rem 3rem;
+}
